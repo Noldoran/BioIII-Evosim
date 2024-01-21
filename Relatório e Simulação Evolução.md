@@ -64,8 +64,8 @@ Para começar, utilizaremos os valores adaptativos encontrados em [P W Hedrick (
 Os valores para o ambiente de *malária ausente* foram escolhidos arbitrariamente, e seu ajuste pode gerar resultados interessantes por exemplo no caso em que a pressão seletiva na ausência da malária seja forte o bastante para  eliminar completamente o alelo $\text{a}$ antes da introdução da malária na população.
 
 Abaixo estão os resultados de uma simulação com os parâmetros de fitness listados a cima, bem como $N = 10^5$, $f_{\text{A}} = 0.75$ ao longo de $100$ gerações.
-![Fig.1](allele_freq.png)
-![Fig.2](genotype_distribution.png)
+![Fig.1](https://raw.githubusercontent.com/Noldoran/BioIII-Evosim/main/allele_freq.png)
+![Fig.2](https://raw.githubusercontent.com/Noldoran/BioIII-Evosim/main/genotype_distribution.png)
 
 Note a linha vertical pontilhada, que denota a geração na qual a malária foi introduzida na população (na simulação mostrada, a geração $g = 50$)
 
