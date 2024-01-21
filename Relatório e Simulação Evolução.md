@@ -61,6 +61,7 @@ Para começar, utilizaremos os valores adaptativos encontrados em [P W Hedrick (
 | ---- | ---- | ---- | ---- |
 | Malária ausente | 1 | 1 | 0.95 |
 | Malária presente | 0.861 | 0.935 | 1 |
+
 Os valores para o ambiente de *malária ausente* foram escolhidos arbitrariamente, e seu ajuste pode gerar resultados interessantes por exemplo no caso em que a pressão seletiva na ausência da malária seja forte o bastante para  eliminar completamente o alelo $\text{a}$ antes da introdução da malária na população.
 
 Abaixo estão os resultados de uma simulação com os parâmetros de fitness listados a cima, bem como $N = 10^5$, $f_{\text{A}} = 0.75$ ao longo de $100$ gerações.
